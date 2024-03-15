@@ -1,8 +1,3 @@
-<h1 align="center">Hello, it's Nelkin</h1>
-<h3 align="center">goblin iOS Developer</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nelishahapuni&label=Profile%20views&color=0e75b6&style=flat" alt="nelishahapuni" /> </p>
-
 - 🔭 I’m currently working on [BYBO](https://github.com/nelishahapuni/bybo-ios)
 
 - 👯 I’m looking to collaborate on **SwiftUI projects**
